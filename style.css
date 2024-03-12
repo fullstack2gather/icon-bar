@@ -1,0 +1,26 @@
+.center{
+   
+
+    background-color: rgb(204, 33, 33);
+ height: 500px;
+    width: 700px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    margin-top:20px ;
+    padding-top: 60px;
+}
+body{
+    margin-left:35%;
+    
+}
+button{
+    height: 40px;
+    width: 90px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 10px solid white;
+    cursor: pointer;
+}
+
+
